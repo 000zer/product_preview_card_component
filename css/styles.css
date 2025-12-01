@@ -55,7 +55,8 @@ body {
     height: inherit;
     border-radius: 8px 0 0 8px;
     background-image: url('../images/image-product-desktop.jpg');
-    background-size: contain;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
 }
 
@@ -178,4 +179,5 @@ body {
     flex-direction: column;
 }
 }
+
 
